@@ -20,10 +20,16 @@
 </div>
 
 # **INFORMATION**
-- **NAME:** `Adjidev`, Also known as `Hexecuted98`, `Espacioo`, `Mysteryos`, `Person98`
-- **HOBY:** `Coding`, `Eating`, `Sleeping`
-- **GENDER:** `N/A` 
-- **SUPER PRIVACY LOVER:** `true`
+```json
+{
+  "name": "Adjidev",
+  "aliases": ["Hexecuted98", "Espacioo", "Mysteryos", "Person98"],
+  "hobbies": ["Coding", "Eating", "Sleeping"],
+  "gender": "Classified 🔒",
+  "privacy_level": "MAXIMUM",
+  "status": "Building cool stuff 🚀"
+}
+```
 
 ## **Technical Skills**
 
@@ -58,3 +64,12 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adjidev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519984493119)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@adjidev)
+
+## **DONATE**
+help me reaching the maximum of my privacy 
+- Monero Address
+```text/plain
+497wfZpktGsQbzz8YUcaV8Uv48CcfQDJbEKpp6ThJKjkPaVC5MGkqvTCdS4yVreqQm8KPGFqzwUenHD4R1gKBY3bQ3nGULN
+```
+
+![Yow](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
