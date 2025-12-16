@@ -14,8 +14,8 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hexecuted98&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hexecuted98&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adjisoft&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adjisoft&layout=compact&theme=radical)
 
 </div>
 
