@@ -39,6 +39,7 @@
 ![C](https://img.shields.io/badge/C-Expert-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-Advanced-orange?style=for-the-badge&logo=cplusplus)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/Java-Beginner-Orange?style=for-the-badge&logo=java)
 
 </div>
 
