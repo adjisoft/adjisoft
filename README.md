@@ -31,7 +31,7 @@
 
 ## 🛠️ Tech Stack & Proficiency
 
-<div align="center">
+<div>
 
 ### 💻 Backend Development
 | Language | Proficiency |
@@ -66,40 +66,6 @@
 </div>
 
 ---
-
-## 📊 Custom Skill Bars (Alternative Design)
-
-<div align="center">
-
-### 💻 Backend
-<details>
-<summary>🖱️ Click to expand</summary>
-<br>
-
-| Skill | Level |
-|-------|-------|
-| **JavaScript** | 84% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #f7df1e, #f0db4f); width: 84%; height: 20px; border-radius: 10px; text-align: center; color: black; font-size: 12px; line-height: 20px;">84%</div> </div> |
-| **C++** | 78% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #00599c, #004482); width: 78%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">78%</div> </div> |
-| **Java** | 69% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #007396, #b07219); width: 69%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">69%</div> </div> |
-| **Rust** | 53% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #dea584, #c97d5c); width: 53%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">53%</div> </div> |
-| **C#** | 47% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #239120, #178600); width: 47%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">47%</div> </div> |
-| **Python** | 24% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #3776ab, #2d5c88); width: 24%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">24%</div> </div> |
-
-</details>
-
-### ☁️ DevOps
-<details>
-<summary>🖱️ Click to expand</summary>
-<br>
-
-| Skill | Level |
-|-------|-------|
-| **Git** | 94% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #f05032, #e0441e); width: 94%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">94%</div> </div> |
-| **GitLab CI** | 80% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #fc6d26, #e24329); width: 80%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">80%</div> </div> |
-| **Docker** | 79% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #2496ed, #1d7fc7); width: 79%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">79%</div> </div> |
-| **Kubernetes** | 32% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #326ce5, #2b5cc2); width: 32%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">32%</div> </div> |
-
-</details>
 
 ### 🗄️ Database
 <details>
