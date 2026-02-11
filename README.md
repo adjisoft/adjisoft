@@ -1,80 +1,125 @@
-<div align="center">
-<h1>Hi ⚡ I'm Adji (adjisoft)</h1>
+<h1 align="center">Hi there 👋, I'm Adji</h1>
+<h3 align="center">A passionate Backend & DevOps Engineer from Indonesia</h3>
+
 <p align="center">
-<a href="https://adjidev.cloud">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-adjidev.cloud-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" />
-</a>
-<a href="https://t.me/adjisoft">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Telegram-Contact-0088cc%3Fstyle%3Dfor-the-badge%26logo%3Dtelegram%26logoColor%3Dwhite" />
-</a>
-</p>
-<p><b>Backend Enthusiast | Privacy Advocate | Open Source Contributor</b></p>
-</div>
-
-🚀 About Me
-
-Seorang pengembang perangkat lunak yang berfokus pada Backend Development dan DevOps. Saya memiliki gairah besar dalam membangun sistem yang efisien, skalabel, serta sangat peduli dengan Privasi di Dunia Digital. Saat tidak sedang memecahkan masalah kompleks di depan terminal, saya biasanya menghabiskan waktu untuk bereksperimen dengan teknologi baru atau sekadar "ngoding" untuk kesenangan.
-
-🏠 Berbasis di: Indonesia
-
-🌐 Blog: rayhex.biz.id
-
-🛡️ Minat: Keamanan siber, Kriptografi, dan Arsitektur Sistem.
-
-🛠️ Technical Stack
-
-🔙 Backend Development
-
-<div align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-78%2525-00599C%3Fstyle%3Dflat-square%26logo%3Dc%252B%252B%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-69%2525-ED8B00%3Fstyle%3Dflat-square%26logo%3Dopenjdk%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Rust-53%2525-000000%3Fstyle%3Dflat-square%26logo%3Drust%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2523-47%2525-239120%3Fstyle%3Dflat-square%26logo%3Dc-sharp%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-84%2525-F7DF1E%3Fstyle%3Dflat-square%26logo%3Djavascript%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-24%2525-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" />
-</div>
-
-🎨 Frontend Development
-
-<div align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-32%2525-61DAFB%3Fstyle%3Dflat-square%26logo%3Dreact%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Redux-28%2525-764ABC%3Fstyle%3Dflat-square%26logo%3Dredux%26logoColor%3Dwhite" />
-</div>
-
-☁️ DevOps & Tools
-
-<div align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-94%2525-F05032%3Fstyle%3Dflat-square%26logo%3Dgit%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gitlab-80%2525-FC6D26%3Fstyle%3Dflat-square%26logo%3Dgitlab%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-79%2525-2496ED%3Fstyle%3Dflat-square%26logo%3Ddocker%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kubernetes-32%2525-326CE5%3Fstyle%3Dflat-square%26logo%3Dkubernetes%26logoColor%3Dwhite" />
-</div>
-
-🗄️ Database
-
-<div align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-43%2525-4479A1%3Fstyle%3Dflat-square%26logo%3Dmysql%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-26%2525-47A248%3Fstyle%3Dflat-square%26logo%3Dmongodb%26logoColor%3Dwhite" />
-</div>
-
-📊 GitHub Stats
-
-<div align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dadjisoft%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" />
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dadjisoft%26layout%3Dcompact%26theme%3Dtokyonight%26langs_count%3D8" />
-</div>
-
-☕ Connect with Me
-
-<p align="left">
-<a href="https://t.me/adjisoft" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/static/v1%3Fstyle%3Dfor-the-badge%26message%3DTelegram%26color%3D0088CC%26logo%3DTelegram%26logoColor%3DFFFFFF%26label%3D" alt="Telegram" />
-</a>
-<a href="https://adjidev.cloud" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/static/v1%3Fstyle%3Dfor-the-badge%26message%3DPortfolio%26color%3D222222%26logo%3DGoogle%2BChrome%26logoColor%3DFFFFFF%26label%3D" alt="Portfolio" />
-</a>
+  <a href="https://github.com/adjisoft">
+    <img src="https://komarev.com/ghpvc/?username=adjisoft&label=Profile%20Views&color=0e75b6&style=flat" alt="adjisoft" />
+  </a>
+  <a href="https://t.me/adjisoft">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://adjidev.cloud">
+    <img src="https://img.shields.io/badge/Website-adjidev.cloud-blue?style=flat&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://rayhex.biz.id">
+    <img src="https://img.shields.io/badge/Blog-rayhex.biz.id-orange?style=flat&logo=firefox-browser&logoColor=white" alt="Blog"/>
+  </a>
 </p>
 
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on **privacy-focused digital solutions**
+- 🌱 I’m currently learning **advanced Kubernetes & System Design**
+- 👯 I’m looking to collaborate on **open-source backend projects**
+- 💬 Ask me about **Rust, C++, Docker, or Git**
+- ⚡ Fun fact: **Privasi dunia digital adalah hobi utama saya!**
+- 📫 How to reach me: **Telegram: @adjisoft**
+
+---
+
+## 🛠️ Tech Stack & Proficiency
+
 <div align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dadjisoft%26color%3Dblueviolet%26style%3Dflat-square%26label%3DProfile%2BViews" alt="Profile Views" />
+
+### 💻 Backend Development
+| Language | Proficiency |
+|:--------:|:-----------:|
+| **Rust** | `53%` ![53%](https://progress-bar.dev/53/?width=100&color=purple) |
+| **C#** | `47%` ![47%](https://progress-bar.dev/47/?width=100&color=6a0dad) |
+| **Java** | `69%` ![69%](https://progress-bar.dev/69/?width=100&color=red) |
+| **C++** | `78%` ![78%](https://progress-bar.dev/78/?width=100&color=blue) |
+| **JavaScript** | `84%` ![84%](https://progress-bar.dev/84/?width=100&color=brightgreen) |
+| **Python** | `24%` ![24%](https://progress-bar.dev/24/?width=100&color=yellow) |
+
+### 🎨 Frontend Development
+| Library/Framework | Proficiency |
+|:-----------------:|:-----------:|
+| **React** | `32%` ![32%](https://progress-bar.dev/32/?width=100&color=61dafb) |
+| **React Redux** | `28%` ![28%](https://progress-bar.dev/28/?width=100&color=764abc) |
+
+### ☁️ DevOps & Tools
+| Technology | Proficiency |
+|:----------:|:-----------:|
+| **Docker** | `79%` ![79%](https://progress-bar.dev/79/?width=100&color=2496ed) |
+| **Kubernetes** | `32%` ![32%](https://progress-bar.dev/32/?width=100&color=326ce5) |
+| **Git** | `94%` ![94%](https://progress-bar.dev/94/?width=100&color=f05032) |
+| **GitLab CI** | `80%` ![80%](https://progress-bar.dev/80/?width=100&color=fc6d26) |
+
+### 🗄️ Databases
+| Database | Proficiency |
+|:--------:|:-----------:|
+| **MySQL** | `43%` ![43%](https://progress-bar.dev/43/?width=100&color=4479a1) |
+| **MongoDB** | `26%` ![26%](https://progress-bar.dev/26/?width=100&color=47a248) |
+
 </div>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/adjisoft">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adjisoft&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adjisoft&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/adjisoft">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adjisoft&theme=radical" alt="adjisoft" />
+  </a>
+</p>
+
+---
+
+## ❤️ Interests & Hobbies
+
+- 🔒 **Digital Privacy** — Membangun dan menggunakan tools untuk menjaga privasi di dunia digital.
+- 💻 **Coding** — Terutama backend dan automation scripts.
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://t.me/adjisoft">
+    <img src="https://img.shields.io/badge/Telegram-%40adjisoft-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://adjidev.cloud">
+    <img src="https://img.shields.io/badge/Website-adjidev.cloud-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://rayhex.biz.id">
+    <img src="https://img.shields.io/badge/Blog-rayhex.biz.id-orange?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="https://github.com/adjisoft">
+    <img src="https://img.shields.io/badge/GitHub-adjisoft-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adjisoft&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="adjisoft" />
+</div>
+
+---
+
+<p align="center">
+  <i>“Privasi bukan untuk menyembunyikan sesuatu, tapi untuk melindungi sesuatu yang berharga.”</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/adjisoft?tab=repositories">🔗 Lihat Repositori Saya</a>
+</p>
