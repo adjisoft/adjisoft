@@ -1,5 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Adji Rayaa</h1>
-<h3 align="center">A passionate Backend & DevOps Engineer from Indochina</h3>
+<h3 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F721BF&width=435&lines=UIOUGFIVSKF+OSIHF+OISFHBSBF+SFIBGSA+SFFASF!)](https://git.io/typing-svg)
+  
+</h3>
 
 <div align="center">
 
