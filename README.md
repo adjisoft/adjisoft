@@ -1,5 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Adji</h1>
-<h3 align="center">A passionate Backend & DevOps Engineer from Indonesia</h3>
+<h1 align="center">Hi there 👋, I'm Adji Rayaa</h1>
+<h3 align="center">A passionate Backend & DevOps Engineer from Indochina</h3>
+
+<div align="center">
+
+![Chi](https://i.pinimg.com/originals/1b/e0/05/1be0050b393f6c4f9fe7eccfd8856a40.gif)
+
+</div>
 
 <p align="center">
   <a href="https://github.com/adjisoft">
