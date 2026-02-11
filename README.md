@@ -148,9 +148,32 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adjisoft&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="adjisoft" />
-</div>
 
+### 📊 Aktivitas GitHub Saya
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adjisoft&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="activity graph">
+</p>
+
+### ⚡ Statistik Tambahan
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=adjisoft&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" alt="github stats">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=adjisoft&theme=radical&hide_border=true" width="400" alt="streak stats">
+    </td>
+  </tr>
+</table>
+
+### 🎯 Ringkasan Kontribusi
+<p>
+  <img src="https://github-contributor-stats.vercel.app/api?username=adjisoft&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" width="600" alt="contributor stats">
+</p>
+
+</div>
 ---
 
 <p align="center">
