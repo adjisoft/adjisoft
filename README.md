@@ -36,33 +36,94 @@
 ### 💻 Backend Development
 | Language | Proficiency |
 |:--------:|:-----------:|
-| **Rust** | `53%` ![53%](https://progress-bar.dev/53/?width=100&color=purple) |
-| **C#** | `47%` ![47%](https://progress-bar.dev/47/?width=100&color=6a0dad) |
-| **Java** | `69%` ![69%](https://progress-bar.dev/69/?width=100&color=red) |
-| **C++** | `78%` ![78%](https://progress-bar.dev/78/?width=100&color=blue) |
-| **JavaScript** | `84%` ![84%](https://progress-bar.dev/84/?width=100&color=brightgreen) |
-| **Python** | `24%` ![24%](https://progress-bar.dev/24/?width=100&color=yellow) |
+| **Rust** | `53%` <img src="https://progress-bar.xyz/53?width=100&color=purple" alt="53%" /> |
+| **C#** | `47%` <img src="https://progress-bar.xyz/47?width=100&color=6a0dad" alt="47%" /> |
+| **Java** | `69%` <img src="https://progress-bar.xyz/69?width=100&color=red" alt="69%" /> |
+| **C++** | `78%` <img src="https://progress-bar.xyz/78?width=100&color=blue" alt="78%" /> |
+| **JavaScript** | `84%` <img src="https://progress-bar.xyz/84?width=100&color=brightgreen" alt="84%" /> |
+| **Python** | `24%` <img src="https://progress-bar.xyz/24?width=100&color=yellow" alt="24%" /> |
 
 ### 🎨 Frontend Development
 | Library/Framework | Proficiency |
 |:-----------------:|:-----------:|
-| **React** | `32%` ![32%](https://progress-bar.dev/32/?width=100&color=61dafb) |
-| **React Redux** | `28%` ![28%](https://progress-bar.dev/28/?width=100&color=764abc) |
+| **React** | `32%` <img src="https://progress-bar.xyz/32?width=100&color=61dafb" alt="32%" /> |
+| **React Redux** | `28%` <img src="https://progress-bar.xyz/28?width=100&color=764abc" alt="28%" /> |
 
 ### ☁️ DevOps & Tools
 | Technology | Proficiency |
 |:----------:|:-----------:|
-| **Docker** | `79%` ![79%](https://progress-bar.dev/79/?width=100&color=2496ed) |
-| **Kubernetes** | `32%` ![32%](https://progress-bar.dev/32/?width=100&color=326ce5) |
-| **Git** | `94%` ![94%](https://progress-bar.dev/94/?width=100&color=f05032) |
-| **GitLab CI** | `80%` ![80%](https://progress-bar.dev/80/?width=100&color=fc6d26) |
+| **Docker** | `79%` <img src="https://progress-bar.xyz/79?width=100&color=2496ed" alt="79%" /> |
+| **Kubernetes** | `32%` <img src="https://progress-bar.xyz/32?width=100&color=326ce5" alt="32%" /> |
+| **Git** | `94%` <img src="https://progress-bar.xyz/94?width=100&color=f05032" alt="94%" /> |
+| **GitLab CI** | `80%` <img src="https://progress-bar.xyz/80?width=100&color=fc6d26" alt="80%" /> |
 
 ### 🗄️ Databases
 | Database | Proficiency |
 |:--------:|:-----------:|
-| **MySQL** | `43%` ![43%](https://progress-bar.dev/43/?width=100&color=4479a1) |
-| **MongoDB** | `26%` ![26%](https://progress-bar.dev/26/?width=100&color=47a248) |
+| **MySQL** | `43%` <img src="https://progress-bar.xyz/43?width=100&color=4479a1" alt="43%" /> |
+| **MongoDB** | `26%` <img src="https://progress-bar.xyz/26?width=100&color=47a248" alt="26%" /> |
 
+</div>
+
+---
+
+## 📊 Custom Skill Bars (Alternative Design)
+
+<div align="center">
+
+### 💻 Backend
+<details>
+<summary>🖱️ Click to expand</summary>
+<br>
+
+| Skill | Level |
+|-------|-------|
+| **JavaScript** | 84% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #f7df1e, #f0db4f); width: 84%; height: 20px; border-radius: 10px; text-align: center; color: black; font-size: 12px; line-height: 20px;">84%</div> </div> |
+| **C++** | 78% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #00599c, #004482); width: 78%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">78%</div> </div> |
+| **Java** | 69% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #007396, #b07219); width: 69%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">69%</div> </div> |
+| **Rust** | 53% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #dea584, #c97d5c); width: 53%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">53%</div> </div> |
+| **C#** | 47% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #239120, #178600); width: 47%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">47%</div> </div> |
+| **Python** | 24% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #3776ab, #2d5c88); width: 24%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">24%</div> </div> |
+
+</details>
+
+### ☁️ DevOps
+<details>
+<summary>🖱️ Click to expand</summary>
+<br>
+
+| Skill | Level |
+|-------|-------|
+| **Git** | 94% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #f05032, #e0441e); width: 94%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">94%</div> </div> |
+| **GitLab CI** | 80% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #fc6d26, #e24329); width: 80%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">80%</div> </div> |
+| **Docker** | 79% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #2496ed, #1d7fc7); width: 79%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">79%</div> </div> |
+| **Kubernetes** | 32% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #326ce5, #2b5cc2); width: 32%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">32%</div> </div> |
+
+</details>
+
+### 🗄️ Database
+<details>
+<summary>🖱️ Click to expand</summary>
+<br>
+
+| Skill | Level |
+|-------|-------|
+| **MySQL** | 43% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #4479a1, #3a6685); width: 43%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">43%</div> </div> |
+| **MongoDB** | 26% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #47a248, #3d8a3d); width: 26%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">26%</div> </div> |
+
+</details>
+
+### 🎨 Frontend
+<details>
+<summary>🖱️ Click to expand</summary>
+<br>
+
+| Skill | Level |
+|-------|-------|
+| **React** | 32% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #61dafb, #4fa8c7); width: 32%; height: 20px; border-radius: 10px; text-align: center; color: black; font-size: 12px; line-height: 20px;">32%</div> </div> |
+| **React Redux** | 28% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #764abc, #5e3a94); width: 28%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">28%</div> </div> |
+
+</details>
 </div>
 
 ---
