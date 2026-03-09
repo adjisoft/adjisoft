@@ -46,7 +46,7 @@
 ### 💻 Backend Development
 | Language | Proficiency |
 |:--------:|:-----------:|
-| **Rust** | `53%` <img src="https://progress-bar.xyz/53?width=100&color=purple" alt="87%" /> |
+| **Rust** | `53%` <img src="https://progress-bar.xyz/87?width=100&color=purple" alt="87%" /> |
 | **C#** | `47%` <img src="https://progress-bar.xyz/47?width=100&color=6a0dad" alt="47%" /> |
 | **Java** | `69%` <img src="https://progress-bar.xyz/69?width=100&color=red" alt="69%" /> |
 | **C++** | `78%` <img src="https://progress-bar.xyz/78?width=100&color=blue" alt="78%" /> |
