@@ -38,72 +38,6 @@
 - 📫 How to reach me: **Telegram: @adjisoft**
 
 ---
-
-## 🛠️ Tech Stack & Proficiency
-
-<div>
-
-### 💻 Backend Development
-| Language | Proficiency |
-|:--------:|:-----------:|
-| **Rust** | `87%` <img src="https://progress-bar.xyz/87?width=100&color=purple" alt="87%" /> |
-| **C#** | `47%` <img src="https://progress-bar.xyz/47?width=100&color=6a0dad" alt="47%" /> |
-| **Java** | `69%` <img src="https://progress-bar.xyz/69?width=100&color=red" alt="69%" /> |
-| **C++** | `78%` <img src="https://progress-bar.xyz/78?width=100&color=blue" alt="78%" /> |
-| **JavaScript** | `84%` <img src="https://progress-bar.xyz/84?width=100&color=brightgreen" alt="84%" /> |
-| **Python** | `24%` <img src="https://progress-bar.xyz/24?width=100&color=yellow" alt="24%" /> |
-
-### 🎨 Frontend Development
-| Library/Framework | Proficiency |
-|:-----------------:|:-----------:|
-| **React** | `32%` <img src="https://progress-bar.xyz/32?width=100&color=61dafb" alt="32%" /> |
-| **React Redux** | `28%` <img src="https://progress-bar.xyz/28?width=100&color=764abc" alt="28%" /> |
-
-### ☁️ DevOps & Tools
-| Technology | Proficiency |
-|:----------:|:-----------:|
-| **Docker** | `79%` <img src="https://progress-bar.xyz/79?width=100&color=2496ed" alt="79%" /> |
-| **Kubernetes** | `32%` <img src="https://progress-bar.xyz/32?width=100&color=326ce5" alt="32%" /> |
-| **Git** | `94%` <img src="https://progress-bar.xyz/94?width=100&color=f05032" alt="94%" /> |
-| **GitLab CI** | `80%` <img src="https://progress-bar.xyz/80?width=100&color=fc6d26" alt="80%" /> |
-
-### 🗄️ Databases
-| Database | Proficiency |
-|:--------:|:-----------:|
-| **MySQL** | `43%` <img src="https://progress-bar.xyz/43?width=100&color=4479a1" alt="43%" /> |
-| **MongoDB** | `26%` <img src="https://progress-bar.xyz/26?width=100&color=47a248" alt="26%" /> |
-
-</div>
-
----
-
-### 🗄️ Database
-<details>
-<summary>🖱️ Click to expand</summary>
-<br>
-
-| Skill | Level |
-|-------|-------|
-| **MySQL** | 43% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #4479a1, #3a6685); width: 43%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">43%</div> </div> |
-| **MongoDB** | 26% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #47a248, #3d8a3d); width: 26%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">26%</div> </div> |
-
-</details>
-
-### 🎨 Frontend
-<details>
-<summary>🖱️ Click to expand</summary>
-<br>
-
-| Skill | Level |
-|-------|-------|
-| **React** | 32% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #61dafb, #4fa8c7); width: 32%; height: 20px; border-radius: 10px; text-align: center; color: black; font-size: 12px; line-height: 20px;">32%</div> </div> |
-| **React Redux** | 28% <br> <div style="background-color: #f0f0f0; width: 300px; height: 20px; border-radius: 10px; margin: 5px 0;"> <div style="background: linear-gradient(90deg, #764abc, #5e3a94); width: 28%; height: 20px; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">28%</div> </div> |
-
-</details>
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -118,13 +52,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adjisoft&theme=radical" alt="adjisoft" />
   </a>
 </p>
-
----
-
-## ❤️ Interests & Hobbies
-
-- 🔒 **Digital Privacy** — Membangun dan menggunakan tools untuk menjaga privasi di dunia digital.
-- 💻 **Coding** — Terutama backend dan automation scripts.
 
 ---
 
@@ -146,27 +73,6 @@
 </p>
 
 ---
-
-<div align="center">
-
-### 📊 Aktivitas GitHub Saya
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adjisoft&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="activity graph">
-</p>
-
-### ⚡ Statistik Tambahan
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=adjisoft&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" alt="github stats">
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=adjisoft&theme=radical&hide_border=true" width="400" alt="streak stats">
-    </td>
-  </tr>
-</table>
 
 ### 🎯 Ringkasan Kontribusi
 <p>
