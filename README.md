@@ -34,7 +34,6 @@
 - 🌱 I’m currently learning **advanced Kubernetes & System Design**
 - 👯 I’m looking to collaborate on **open-source backend projects**
 - 💬 Ask me about **Rust, C++, Docker, or Git**
-- ⚡ Fun fact: **Privasi dunia digital adalah hobi utama saya!**
 - 📫 How to reach me: **Telegram: @adjisoft**
 
 ---
@@ -73,19 +72,6 @@
 </p>
 
 ---
-
-### 🎯 Ringkasan Kontribusi
-<p>
-  <img src="https://github-contributor-stats.vercel.app/api?username=adjisoft&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" width="600" alt="contributor stats">
-</p>
-
-</div>
----
-
 <p align="center">
-  <i>“Privasi bukan untuk menyembunyikan sesuatu, tapi untuk melindungi sesuatu yang berharga.”</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/adjisoft?tab=repositories">🔗 Lihat Repositori Saya</a>
+  <a href="https://github.com/adjisoft?tab=repositories">My Repo</a>
 </p>
