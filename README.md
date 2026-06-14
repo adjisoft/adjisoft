@@ -18,8 +18,8 @@
   <a href="https://t.me/adjisoft">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://adjidev.cloud">
-    <img src="https://img.shields.io/badge/Website-adjidev.cloud-blue?style=flat&logo=google-chrome&logoColor=white" alt="Website"/>
+  <a href="https://adjisoft.me">
+    <img src="https://img.shields.io/badge/Website-ajisoft.me-blue?style=flat&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   <a href="https://rayhex.biz.id">
     <img src="https://img.shields.io/badge/Blog-rayhex.biz.id-orange?style=flat&logo=firefox-browser&logoColor=white" alt="Blog"/>
