@@ -12,6 +12,8 @@
 * Game Development
 
 ## STACK USED
+
+* ### PROGRAMMING
 * JavaScript & TypeScript (Mostly)
 * Python
 * C/C++
@@ -19,7 +21,21 @@
 * Java
 * Lua
 
-### SOCIAL
+* ### DEVOPS
+* Docker
+* Git (Mostly)
+* GitLab
+
+* ### USED SOFTWARE
+* VSCode (Mostly)
+* Aseprite (Mostly)
+* Godot
+* VS 2026 Community
+* LMMS
+* Inkscape
+* GIMP 3
+
+## SOCIAL
 * [Click here for my Telegram](https://t.me/adjisoft)
 * [Click here for my Instagram](https://instagram.com/adjisoft)
 * [Click for my personal Website](https://adjisoft.me)
