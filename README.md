@@ -9,6 +9,7 @@
 * Coding
 * 3D artist (I know little)
 * Pixel artist (Junior pixel artist but bad at shading)
+* Game Development
 
 ## STACK USED
 * JavaScript & TypeScript (Mostly)
@@ -21,4 +22,4 @@
 ### SOCIAL
 * [Click here for my Telegram](https://t.me/adjisoft)
 * [Click here for my Instagram](https://instagram.com/adjisoft)
-* [Click for my Website](https://adjisoft.me)
+* [Click for my personal Website](https://adjisoft.me)
